@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "foram",
+    "email": "foram10@gmail.com",
+    "department": "IT",
+    "salary": 22000
+  },
+  {
+    "id": 2,
+    "name": "drashti",
+    "email": "drashti@gmail.com",
+    "department": "HR",
+    "salary": 55000
+  },
+  {
+    "id": 3,
+    "name": "jihan",
+    "email": "jihan@gmail.com",
+    "department": "Finance",
+    "salary": 35000
+  }
+]

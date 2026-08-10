@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+
+<div id="element"></div>
+
+<script type="text/babel">
+
+function Welcome() {
+    return <h1>Hello</h1>;
+}
+
+function Name() {
+    return <h1>Drashti</h1>;
+}
+
+function App() {
+    return (
+        <div>
+            <Welcome />
+            <Name />
+        </div>
+    );
+}
+
+ReactDOM.render(<App />, document.getElementById("element"));
+
+</script>
+
+</body>
+</html>
