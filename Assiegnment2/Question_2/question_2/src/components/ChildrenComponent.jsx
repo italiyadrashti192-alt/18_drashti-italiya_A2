@@ -14,7 +14,7 @@ function ChildrenComponent() {
         This content is passed from the parent using children.
       </p>
       <button className="btn btn-primary">
-        Click here
+        Click Me
       </button>
     </Card>
   );

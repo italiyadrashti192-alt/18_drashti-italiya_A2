@@ -3,7 +3,7 @@ function Header() {
 }
 
 function StudentInfo() {
-  return <p>Name: Foram | Course: MSc IT</p>;
+  return <p>Name: Drashti | Course: MSc IT</p>;
 }
 
 function NestedComponent() {

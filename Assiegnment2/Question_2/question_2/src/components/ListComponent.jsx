@@ -1,5 +1,5 @@
 function ListComponent() {
-  const fruits = ["mango", "Banana", "litchi", "papaya"];
+  const fruits = ["litchi", "strawberry", "kiwi", "pinapple"];
 
   return (
     <div className="card p-4">
